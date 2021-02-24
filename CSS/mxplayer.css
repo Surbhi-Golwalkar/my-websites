@@ -1,0 +1,95 @@
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		.navbar{
+			background: #3c8cf0;
+			width: 100%;
+			height: 60px;
+		}
+		.image{
+			width: 123px;
+            margin-left: 24px;
+            margin-top: 14px;
+		}
+		.menu{
+			margin-left: 226px;
+            margin-top: -30px;
+		}
+		.menu a{
+			color: hsl(0deg 0% 100% / 50%);
+            font-size: 21px;
+            text-decoration: none;
+            margin: 14px;
+		}
+		.menu a:hover{
+			color:white;
+		}
+		.menu a active{
+				background-color:  #343434;
+			}
+		.banner{
+			background: url(https://pm1.narvii.com/6732/3de323a60f7a26e1f63b389f593b431f73c757b5v2_hq.jpg);
+			height: 500px;
+			width: 100%;
+			line-height: 900px;
+			background-repeat: no-repeat;
+			background-size: cover;
+
+		}
+		.f {
+		    text-align: center;
+		    font-size: 25px;
+		    color: #525244;
+		    font-family: sans-serif;
+		}
+		.a{
+  		 	color: #000000;
+  		 	font-size: 26px;
+  		 	font-family: sans-serif;
+      		margin: 18px;
+      		font-weight: normal;
+   		}
+   		.b
+   		{
+   			width: 100%;
+   			height: 365px;
+   		}
+   		.c{
+   			width: 230px;
+   			height: 400px;
+   			float: left;
+   			margin-left: -11px;
+   		}
+   		.e{
+   			width: 230px;
+   			height: 400px;
+   			float: left;
+   			margin-left: 20px;
+   		}
+   		.d{
+   			font-size: 16px;
+   			color: #505a78;
+   			font-family:sans-serif;
+   		}
+   		.footer
+		{
+			background: #e5ecf3;
+			width:100%;
+			height: 400px;
+			margin-top: -4px;
+		}
+		.x {
+			
+			    height: 300px;
+			    width: 250px;
+			    margin: 43px;
+			    float: left;
+			}
+
+		
+		.p{
+			
+			margin: -9px;
+			margin-left: 35px;
+		}

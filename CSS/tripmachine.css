@@ -1,0 +1,295 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+
+}
+
+.Ribbon{
+			
+			height: 23px;
+			width: 100%;
+			background: black;
+			color: white;
+			font-family: 'Open Sans', sans-serif;
+			line-height: -2.5px;
+		    position: relative;
+       }
+
+.navbar{
+			background:#fff ;
+			height: 80px;
+		}
+
+.image{
+			width: 160px;
+            margin-left: 85px;
+            margin-top: 14px;
+		}
+
+.menu{
+		    margin-left: 540px;
+    		margin-top: -48px;
+		}
+.menu a{
+			color: black;
+            font-size: 17px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: 14px;
+            font-weight: bold;
+		}
+.banner{
+			background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Faded_Mountain_Hike_with_White_Text_Nature_Desktop_Wallpaper-4_c01a2e34-c0f3-4af8-ba76-b569e372c786_1600x.jpg?v=1612434570);
+			height: 700px;
+			width: 100%;
+			background-size: cover;
+
+		}
+.icon{
+			margin: 4px;
+	}
+.a{
+			color: black;
+            font-size: 17px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: 3px;
+            font-weight: bold;
+}
+.b{
+			color: #ffffff;
+            font-size: 20px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: 3px;
+            font-weight: bold;
+            line-height: 500px;
+
+}
+.c{
+			color: #ffffff;
+            font-size: 40px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: 3px;
+            font-weight: bold;
+            line-height: 81px;
+
+}
+.d{
+			color: #ffffff;
+            font-size: 29px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: -28px;
+            font-weight: bold;
+         
+
+}
+button{
+			padding: 16px 32px;
+		    margin-top: 15px;
+		    line-height: initial;
+		    color:#ffffff;
+		    border: 1px solid rgba(255,255,255,0.6);
+		    background-color: rgba(255,255,255,0.1);
+		    border-radius: 4px;
+		}
+.product1{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/12_aac9c8bc-a51b-4b19-88e6-f0039cad3fd7_1600x.jpg?v=1598425159);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product2{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/13_edbf1d05-ffac-4766-99ae-dd9fc9c73d1a_1600x.jpg?v=1598425195);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.product3{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/14_d6eea7c7-6439-41e9-bedd-8d03c51216dd_1600x.jpg?v=1598425233);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product4{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/7_9fbd308d-432c-42a6-ac11-2969d99fa647_1600x.png?v=1598425611);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.product5{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_85d62396-22fb-4c0e-9972-94cf6254c03c_1600x.png?v=1598108905);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product6{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/2_afef9b3b-8390-4fb2-8e7e-0c193ab5ab3e_1600x.png?v=1598108928);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.product7{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/10_d76fa6bd-e7ec-4421-99a5-0865737e3154_1600x.jpg?v=1598425100);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product8{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/11_f87594f3-bd4c-46c2-9036-e1846173a87f_1600x.jpg?v=1598425134);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.handmade{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/tripmachine_02f85dce-26d8-46c7-8dc7-e28a43d4de50_1600x.jpg?v=1598108328);
+	background-size: cover;
+	height: 1900px;
+	width: 100%;
+	margin-top: 180%;
+
+}
+.extra{
+	height: 300px;
+	width: 100%;
+	margin-top: 75%;
+}
+.product9{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/3_d65a36ed-55dc-4b1a-964c-89571aa8f836_1600x.png?v=1598425976);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product10{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/4_e6251416-4f76-4ec8-b956-b79e81787193_1600x.png?v=1598425878);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.product11{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/5_b4a2484e-49e3-4ad4-aed7-f449324cf30f_1600x.png?v=1598425901);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.product12{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/6_f3164762-bb05-4acc-bb04-1fa0b2f4befe_1600x.png?v=1598425929);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 19px;
+	margin-right:85px;
+	margin-top: 19px;
+}
+.signup{
+
+	border: 2px grey solid;
+	height: 240px;
+	background: black;
+	margin-top: 1845px;
+	border-radius: 1px;
+	text-align: center;
+		}
+.product13{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/8_6011f50f-b2c1-40c1-8f7a-c9319c937417_1600x.png?v=1598425949);
+	background-size: cover;
+	height: 580px;
+	width: 580px;
+	float: left;
+	margin-left: 85px;
+	margin-top: 19px;
+}
+.x{
+	 height: 34px;
+    width: 120px;
+    border-radius: 7px;
+    margin-left: 10px;
+    
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+
+}
+.footer
+		{
+			background: white;
+			width:100%;
+			height: 600px;
+			margin-top: -4px;
+		}
+.j{
+			
+			    height: 400px;
+			    width: 300px;
+			    margin: 43px;
+			    margin-left: 85px;
+			    float: left;
+			}
+.k{
+	        color: black;
+            font-size: 10px;
+            text-decoration: none;
+            font-family: 'Open Sans', sans-serif;
+            margin: 1px;
+
+            
+}
+
+.anchor{
+          color: #4a4848;
+          font-size: 7px;
+          font-weight: normal;
+          margin-left: -1px;
+          text-decoration: none;
+          text-align: left;
+          font-family: 'Open Sans', sans-serif;
+        }
+.div1{
+	margin-left: 65px;
+	margin-right: -81px;
+	height: 550px;
+	width: 435px;
+	float: left;
+}
